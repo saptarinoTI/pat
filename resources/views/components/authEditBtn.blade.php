@@ -1,0 +1,1 @@
+<a href="{{ $link }}" class="btn btn-sm btn-warning text-white">Edit</a>
